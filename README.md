@@ -42,6 +42,12 @@ $ source ~/.bashrc
 $ roslaunch robot_arm_pkg check_motors.launch
 ```
 
+## Robot arm on rviz
+After completing the installation and setup process, you should be able to launch the robot arm in RViz. The RViz visualization tool allows you to interact with the robot arm and simulate its movements.
+
+![image](https://github.com/Zahrah794/Ros_RobotArm/assets/139267881/ee8c1307-b81b-47ad-a3d1-cd2bc78ab538)
+
+
 
 
 
